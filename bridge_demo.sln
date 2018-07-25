@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bridge_demo", "bridge_demo.csproj", "{FF1FD5CA-EE2D-A43E-E6EF-D2A4438C1A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bridge_demo.Editor", "bridge_demo.Editor.csproj", "{C16394B9-158E-5292-2C8F-670D0B79CE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1FD5CA-EE2D-A43E-E6EF-D2A4438C1A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1FD5CA-EE2D-A43E-E6EF-D2A4438C1A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1FD5CA-EE2D-A43E-E6EF-D2A4438C1A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1FD5CA-EE2D-A43E-E6EF-D2A4438C1A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16394B9-158E-5292-2C8F-670D0B79CE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16394B9-158E-5292-2C8F-670D0B79CE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16394B9-158E-5292-2C8F-670D0B79CE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16394B9-158E-5292-2C8F-670D0B79CE51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
