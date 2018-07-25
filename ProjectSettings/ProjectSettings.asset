@@ -553,11 +553,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: bridge_demo
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 004cb1acd742d501
   metroApplicationDescription: bridge_demo
   wsaImages: {}
   metroTileShortName: 
@@ -577,8 +577,10 @@ PlayerSettings:
       HumanInterfaceDevice: False
       InternetClient: False
       InternetClientServer: False
+      Microphone: True
       PrivateNetworkClientServer: False
-      SpatialPerception: True
+      SpatialPerception: False
+      WebCam: False
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 

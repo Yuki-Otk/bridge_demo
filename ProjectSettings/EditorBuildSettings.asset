@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/bridge_demo.unity
+    guid: 1b5e7f9a66d940e4fa55b8a89fcd8cea
